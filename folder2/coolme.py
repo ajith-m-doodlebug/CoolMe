@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/api',methods=['GET'])
 def hello():
-   g = Github("ajith-m-doodlebug", "Ajith25122001")
+   g = Github("ajith-m-doodlebug", "Ajith251")
 
     repo = g.get_user().get_repo("https://github.com/ajith-m-doodlebug/CoolMe")
     all_files = []
