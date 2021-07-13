@@ -1,0 +1,1 @@
+Flask install on virtualenv In this tutorial, we'll learn how to make http requests such as GET and POST. We'll use a minimal Flask wsgi server to respond to the requests.
