@@ -1,0 +1,1 @@
+{"godsEyeID": "godsEyeID","latitude":"12.9165","longitude":"79.1325","altitude":"79.1325","deviceOS":"Android/Ios","deviceModel":"deviceModel","deviceID":"deviceID","numOfTimesOpened":"1","timeSpend":"1","feedback":"This is the sample"}
