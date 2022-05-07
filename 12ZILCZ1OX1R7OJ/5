@@ -1,1 +1,19 @@
-
+{
+    "description": "NFTs from On The Ether - Poster Yellow",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmUT19M3mZNvDXHT2gAEpZywMwhAab6P2iL1kxs3YsNCVz",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUT19M3mZNvDXHT2gAEpZywMwhAab6P2iL1kxs3YsNCVz",
+    "name": "On The Ether #6",
+    "attributes": [
+        {
+            "trait_type": "Author", 
+            "value": "Ajith"
+      },  
+      {
+            "trait_type": "Resolution", 
+            "value": "6016px x 3385 px"
+      }, 
+      {
+          "display_type": "date", 
+          "trait_type": "Published", 
+          "value": 1651918435
+      }]}
