@@ -7,7 +7,11 @@
         {
             "trait_type": "Author", 
             "value": "Ajith"
-      },  
+      }, 
+      {
+            "trait_type": "Camera", 
+            "value": "MI"
+      }, 
       {
             "trait_type": "Resolution", 
             "value": "6016px x 3385 px"
