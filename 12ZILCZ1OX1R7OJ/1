@@ -1,23 +1,19 @@
 {
-    "description": "Galaxy & stars photos",
-    "external_url": "https://unsplash.com/photos/OdIcSx9EXB8",
-    "image": "https://gateway.pinata.cloud/ipfs/QmbenhFUhkxZieD9BHaaQtLgsAhhjLYa7wwkrne5jXxXZj",
-    "name": "Starry Night #2",
+    "description": "NFTs from On The Ether - Logo Mini",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmTWFt52mQiLdJy5JMdG9yDxJsCvLZsFMUbE4bm8RNZwrS",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTWFt52mQiLdJy5JMdG9yDxJsCvLZsFMUbE4bm8RNZwrS",
+    "name": "On The Ether #2",
     "attributes": [
         {
-              "trait_type": "Author", 
-              "value": "Matthew Mitchell"
-        },  
-        {
-              "trait_type": "Camera", 
-              "value": "SONY, ILCE-7RM4A"
-        }, 
-        {
-              "trait_type": "Resolution", 
-              "value": "1935 × 2580 px"
-        }, 
-        {
-            "display_type": "date", 
-            "trait_type": "Published", 
-            "value": 1636844400
-        }]}
+            "trait_type": "Author", 
+            "value": "Ajith"
+      },  
+      {
+            "trait_type": "Resolution", 
+            "value": "6016px x 3385 px"
+      }, 
+      {
+          "display_type": "date", 
+          "trait_type": "Published", 
+          "value": 1651918435
+      }]}
