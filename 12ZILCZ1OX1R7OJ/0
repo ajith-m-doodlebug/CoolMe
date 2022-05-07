@@ -1,17 +1,13 @@
 {
-    "description": "Galaxy & stars photos",
-    "external_url": "https://www.pexels.com/photo/milky-way-galaxy-during-nighttime-1252890/",
-    "image": "https://gateway.pinata.cloud/ipfs/QmZ6iJbUpEfKxUodwx4DgaF9zquvRjJEMXAkH8EJtWPLKm",
-    "name": "Starry Night #1",
+    "description": "NFTs from On The Ether - Logo Full",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmT67JXBWXwf2Pvs5tkmaTuhh4zPhHznM74ua5H1FFso49",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT67JXBWXwf2Pvs5tkmaTuhh4zPhHznM74ua5H1FFso49",
+    "name": "On The Ether #1",
     "attributes": [
         {
             "trait_type": "Author", 
-            "value": "Hristo Fidanov"
+            "value": "Ajith"
       },  
-      {
-            "trait_type": "Camera", 
-            "value": "NIKON D750"
-      }, 
       {
             "trait_type": "Resolution", 
             "value": "6016px x 3385 px"
@@ -19,5 +15,5 @@
       {
           "display_type": "date", 
           "trait_type": "Published", 
-          "value": 1531951200
+          "value": 1651918435
       }]}
