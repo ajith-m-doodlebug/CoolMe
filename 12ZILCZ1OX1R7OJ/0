@@ -1,25 +1,23 @@
 {
-  "description": "Galaxy & stars photos",
-  "external_url": "https://unsplash.com/photos/OdIcSx9EXB8",
-  "image": "https://ipfs.io/ipfs/QmT67JXBWXwf2Pvs5tkmaTuhh4zPhHznM74ua5H1FFso49?filename=OTH%20FULL",
-  "name": "Starry Night #2",
-  "attributes": [
-    {
-      "trait_type": "Author",
-      "value": "Matthew Mitchell"
-    },
-    {
-      "trait_type": "Camera",
-      "value": "SONY, ILCE-7RM4A"
-    },
-    {
-      "trait_type": "Resolution",
-      "value": "1935 × 2580 px"
-    },
-    {
-      "display_type": "date",
-      "trait_type": "Published",
-      "value": 1636844400
-    }
-  ]
-}
+    "description": "Galaxy & stars photos",
+    "external_url": "https://www.pexels.com/photo/milky-way-galaxy-during-nighttime-1252890/",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZ6iJbUpEfKxUodwx4DgaF9zquvRjJEMXAkH8EJtWPLKm",
+    "name": "Starry Night #1",
+    "attributes": [
+        {
+            "trait_type": "Author", 
+            "value": "Hristo Fidanov"
+      },  
+      {
+            "trait_type": "Camera", 
+            "value": "NIKON D750"
+      }, 
+      {
+            "trait_type": "Resolution", 
+            "value": "6016px x 3385 px"
+      }, 
+      {
+          "display_type": "date", 
+          "trait_type": "Published", 
+          "value": 1531951200
+      }]}
